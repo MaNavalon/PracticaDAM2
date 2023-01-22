@@ -1,4 +1,4 @@
-FuncionParte1{toquiteo la parte uno, soy nav. ha habido algún conflicto raro
+FuncionParte1{toquiteo la parte uno, soy nav. ha habido algún conflicto raro. Al final borrar y empezar de cero
 	codigo...
 }
 
