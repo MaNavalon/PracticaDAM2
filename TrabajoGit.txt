@@ -2,7 +2,7 @@ FuncionParte1{toquiteo la parte uno, soy nav. ha habido algún conflicto raro
 	codigo...
 }
 
-FuncionParte2{toquiteo la parte dos, soy val
+FuncionParte2{toquiteo la parte dos, soy val ahora funciona bien?
 	codigo...
 }
 
