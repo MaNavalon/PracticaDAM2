@@ -6,7 +6,7 @@ FuncionParte2{toquiteo la parte dos, soy val ahora funciona bien?
 	codigo...
 }
 
-FuncionParte3{
+FuncionParte3{soy val toco funcion3
 	codigo...
 }
 
